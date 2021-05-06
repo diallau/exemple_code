@@ -1,0 +1,21 @@
+david_gallavan:
+    -new_game_ext
+    -test_new_game_ext
+boubacar:
+    -add_mirror_ext
+    -test_add_mirror_ext
+karim:
+     -game_width
+     -game_height
+Elhadj:
+    -Adapter les autres fonction qui restes
+    -setup_new_game_ext
+    -test_setup_new_ext
+    -test is_game_over
+    -test setup_new_game
+    -test delete_game
+    -test current_nb_seen
+    -test current_nb_monsters
+    -test required_nb_monsters
+    -test set_required_nb_monsters
+    -.............................
